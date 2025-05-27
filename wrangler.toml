@@ -1,6 +1,0 @@
-name = "libretv"
-account_id = "Xiaodao869@gmail.com"
-compatibility_date = "2025-05-27"
-
-[site]
-bucket = "./"  # 直接托管项目根目录（包含 index.html 等）
