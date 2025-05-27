@@ -1,4 +1,5 @@
-name = "worker-name"
+name = "libre-tv"
+type = "javascript"
 compatibility_date = "2025-05-27"
 
 [site]
